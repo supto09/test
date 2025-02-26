@@ -22,7 +22,7 @@
   "git": {
     "commitMessage": "chore: release v${version}",
     "requireCleanWorkingDir": false,
-    "tag": false,
+    "tag": true,
     "push": false,
     "addUntrackedFiles": true
   },

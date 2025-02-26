@@ -21,8 +21,10 @@
   "$schema": "https://unpkg.com/release-it@18/schema/release-it.json",
   "git": {
     "commitMessage": "chore: release v${version}",
+    "requireCleanWorkingDir": false,
     "tag": false,
-    "push": false
+    "push": false,
+    "addUntrackedFiles": true
   },
   "github": {
     "release": false

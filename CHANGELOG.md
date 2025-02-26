@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.5.0](https://github.com/supto09/test/compare/0.4.1...0.5.0) (2025-02-26)
+
+### Features
+
+* feat 5 ([2f4aeb7](https://github.com/supto09/test/commit/2f4aeb79984668d206ac171c602bcfaa02b0169c))
+
 ## [0.4.1](https://github.com/supto09/test/compare/0.4.0...0.4.1) (2025-02-26)
 
 ## 0.4.0 (2025-02-26)
